@@ -1,0 +1,5 @@
+/* css 파일 명에 '.module'을 붙혀주면 post css로 인식한다.*/
+
+.button {
+    background-color: aqua;
+}
